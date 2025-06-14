@@ -1,1 +1,1 @@
-# Resume-Predicting-App
+# Resume-Screening-App
