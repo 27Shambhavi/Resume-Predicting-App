@@ -1,2 +1,2 @@
-python-docx
+docx
 PyPDF2
